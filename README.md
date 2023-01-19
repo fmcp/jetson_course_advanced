@@ -8,7 +8,7 @@ These examples have been developed for the course "Getting Started with AI on Je
 Clone this repository with git and upload notebooks to your Google Drive:
 
 ```
-git clone https://github.com/fmcp/jetson_samples
+git clone https://github.com/fmcp/jetson_course_advanced
 ```
 
 Maybe neccesary:
