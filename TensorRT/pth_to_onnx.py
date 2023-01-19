@@ -5,7 +5,7 @@ import argparse
 if __name__ == '__main__':
     # Input arguments
     parser = argparse.ArgumentParser(description='Course pth model')
-    parser.add_argument('--onnx_path', type=str, default='', required=True, help="Path to save model")
+    parser.add_argument('--onnx_path', type=str, default='/home/nano/resnet50_onnx.onnx', required=True, help="Path to save model")
 
     args = parser.parse_args()
 
