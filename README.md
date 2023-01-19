@@ -1,4 +1,4 @@
-# Getting Started with AI on Jetson Nano: Jetson Samples
+# Advanced Getting Started with AI on Jetson Nano: Jetson Samples
 
 These examples have been developed for the course "Getting Started with AI on Jetson Nano", taught by Francisco M. Castro with the collaboration of NVIDIA.
 
