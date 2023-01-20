@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27ff4e1c-f863-4404-b946-521521eb35fc" name="Default Changelist" comment="" />
+    <list default="true" id="27ff4e1c-f863-4404-b946-521521eb35fc" name="Default Changelist" comment="google colab">
+      <change afterPath="$PROJECT_DIR$/energy_meter.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +44,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/TensorRT" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paula\Desktop\Trabajo\jetson_course_advanced" />
+      <recent name="C:\Users\paula\Desktop\Trabajo\jetson_course_advanced\Notebooks" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\paula\Desktop\Trabajo\jetson_course_advanced\TensorRT" />
     </key>
@@ -55,8 +62,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674120129908</updated>
-      <workItem from="1674120131141" duration="8513000" />
+      <workItem from="1674120131141" duration="12531000" />
     </task>
+    <task id="LOCAL-00001" summary="google colab">
+      <created>1674133989779</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674133989779</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +87,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="google colab" />
+    <option name="LAST_COMMIT_MESSAGE" value="google colab" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1674133974464">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1674133974464" />
   </component>
 </project>
