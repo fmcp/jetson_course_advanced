@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27ff4e1c-f863-4404-b946-521521eb35fc" name="Default Changelist" comment="google colab">
-      <change afterPath="$PROJECT_DIR$/energy_meter.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorRT/pth_to_onnx.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorRT/pth_to_onnx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorRT/trt_quantization.sh" beforeDir="false" afterPath="$PROJECT_DIR$/TensorRT/trt_quantization.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674120129908</updated>
-      <workItem from="1674120131141" duration="12531000" />
+      <workItem from="1674120131141" duration="14958000" />
     </task>
     <task id="LOCAL-00001" summary="google colab">
       <created>1674133989779</created>
