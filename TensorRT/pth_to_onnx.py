@@ -5,9 +5,9 @@ import argparse
 if __name__ == '__main__':
     # Input arguments
     parser = argparse.ArgumentParser(description='Course pth model')
-    parser.add_argument('--onnx_path', type=str, default='/home/nano/resnet50_onnx.onnx', required=True, help="Path to save model")
+    parser.add_argument('--onnx_path', type=str, default='/home/nano/resnet50_onnx.onnx', required=False, help="Path to save model")
     parser.add_argument('--dynamic_batch', default=False, action='store_true')
-    parser.add_argument('--onnx_path_dynamic_batch', type=str, default='/home/nano/resnet50_onnx_dynamic_batch.onnx', required=True, help="Path to save model with dynamic batch")
+    parser.add_argument('--onnx_path_dynamic_batch', type=str, default='/home/nano/resnet50_onnx_dynamic_batch.onnx', required=False, help="Path to save model with dynamic batch")
 
     args = parser.parse_args()
 
