@@ -19,5 +19,5 @@
 #Change batch size
 
 #FP32
-/usr/src/tensorrt/bin/trtexec --onnx=/home/nano/resnet50_onnx.onnx --saveEngine=/home/nano/trt_models/resnet50_batch8_fp32.trt --shapes=\'input\':8x3x224x224
-#/usr/src/tensorrt/bin/trtexec --loadEngine=/home/nano/trt_models/resnet50_batch1_fp32.trt
+#/usr/src/tensorrt/bin/trtexec --onnx=/home/nano/resnet50_onnx_dynamic_batch.onnx --saveEngine=/home/nano/trt_models/resnet50_batch8_fp32.trt --shapes=\'input\':8x3x224x224
+#/usr/src/tensorrt/bin/trtexec --loadEngine=/home/nano/trt_models/resnet50_batch8_fp32.trt
