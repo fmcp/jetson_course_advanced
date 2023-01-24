@@ -20,12 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27ff4e1c-f863-4404-b946-521521eb35fc" name="Default Changelist" comment="google colab">
+      <change afterPath="$PROJECT_DIR$/TensorRT/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorRT/live_test_trt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,12 +52,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/TensorRT" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\paula\Desktop\Trabajo\jetson_course_advanced" />
-      <recent name="C:\Users\paula\Desktop\Trabajo\jetson_course_advanced\Notebooks" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\paula\Desktop\Trabajo\jetson_course_advanced\TensorRT" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paula\Desktop\Trabajo\jetson_course_advanced\TensorRT" />
+      <recent name="C:\Users\paula\Desktop\Trabajo\jetson_course_advanced\Pruning" />
+      <recent name="C:\Users\paula\Desktop\Trabajo\jetson_course_advanced" />
+      <recent name="C:\Users\paula\Desktop\Trabajo\jetson_course_advanced\Notebooks" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -63,6 +74,7 @@
       <updated>1674120129908</updated>
       <workItem from="1674120131141" duration="15752000" />
       <workItem from="1674206280626" duration="6804000" />
+      <workItem from="1674554591394" duration="2377000" />
     </task>
     <task id="LOCAL-00001" summary="google colab">
       <created>1674133989779</created>
