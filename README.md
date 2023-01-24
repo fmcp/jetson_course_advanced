@@ -16,7 +16,7 @@ Maybe neccesary:
 sudo pip3 install --global-option=build_ext --global-option="-I/usr/local/cuda/include" --global-option="-L/usr/local/cuda/lib64" pycuda
 ```
 
-Or copy this colabs in your Google Drive:
+Copy this colabs in your Google Drive:
 * TF to ONNX: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pzpTxNZNwimL2gIFnfoVWvAcQh133Za-)
 * Pruning with Keras: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NR2A9wPjHIQJPaE0SgNXnq-Ntg7jjnP3)
 * L1 pruning: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10btzzCDsNZpshVYAPokwMUzA03Zdtr5I)
