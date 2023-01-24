@@ -17,9 +17,11 @@ sudo pip3 install --global-option=build_ext --global-option="-I/usr/local/cuda/i
 ```
 
 Or copy this colabs in your Google Drive:
+* TF to ONNX: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-HN6F5ItNOJDIKbX8yFtEHvY-nNZa8yi)
 
-* Pract1: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O60VH-dH2JrTpcKJh9LCqdxsq2RVlgcv)
-* Pract2: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q8M0Kw-Ub9xBOUuNAHIwWlGRVOUPXqT0)
+
+* Example1: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O60VH-dH2JrTpcKJh9LCqdxsq2RVlgcv)
+* Example2: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q8M0Kw-Ub9xBOUuNAHIwWlGRVOUPXqT0)
 
 ## Proposed projects
 * Identification of bottles with different drinks
