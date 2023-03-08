@@ -41,7 +41,7 @@ Copy this colabs in your Google Drive:
 
 ## Authors
 
-* **Francisco M. Castro** - [fmcp](https://github.com/fmcp) (fcastro@uma.es) [<img alt="alt_text" width="15px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/francisco-manuel-castro-pay%C3%A1n-5099248b/)
+* **Francisco M. Castro** - [fmcp](https://github.com/fmcp) (fcastro@uma.es) [<img alt="alt_text" width="15px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/francisco-manuel-castro-pay%C3%A1n-5099248b/)[<img alt="alt_text" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />](https://scholar.google.es/citations?hl=es&user=xXZz8m4AAAAJ)
 * **Paula Ruíz Barroso** - [PaulaRuizB](https://github.com/PaulaRuizB) (pruizb@uma.es) [<img alt="alt_text" width="15px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/paula-ruiz-barroso/)[<img alt="alt_text" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />](https://scholar.google.es/citations?user=w40SudQAAAAJ&hl=es&oi=ao)
 
 ![logo](./img/logos.jpg)
